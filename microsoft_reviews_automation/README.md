@@ -21,14 +21,14 @@ pip install -r requirements.txt
 # Запуск скрипта
 python reviews_automation.py
 
-
-
 ---
 
 
 
 
-#### 📂 **README (English)**
+
+
+## 📂 **README (English)**
 ```markdown
 # 🤖 Microsoft Partner Center Review Automation
 
