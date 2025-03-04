@@ -1,14 +1,13 @@
-# 🤖 Support Automation Scripts  
+🤖 Support Automation Scripts
+This repository contains automation scripts for the support team, simplifying ticket processing and review management.
 
-Этот репозиторий содержит скрипты автоматизации для службы поддержки, упрощающие обработку тикетов и отзывов.  
+📂 Structure
+microsoft_reviews_automation/ – Automates responses to reviews in Microsoft Partner Center using Selenium + OpenAI.
+zoho_desk_spam_fix/ – A script for bulk removal of the "Spam" label or changing ticket statuses in Zoho Desk.
+🛠 Installation
+First, install the dependencies:
 
-## 📂 Структура  
-- **microsoft_reviews_automation/** – Автоматические ответы на отзывы в Microsoft Partner Center с помощью Selenium + OpenAI.  
-- **zoho_desk_spam_fix/** – Скрипт для массового снятия метки "Спам" или изменения статусов тикетов в Zoho Desk.  
-
----
-
-## 🛠 Установка  
-Сначала установите зависимости:  
-```bash
+bash
+Copy
+Edit
 pip install -r requirements.txt
