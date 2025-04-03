@@ -20,7 +20,7 @@ Paste the script below
 
 Hit Enter — done! 🙌
 
-
+<pre> <code>```
 (function expandAllReviews() {
     // Click buttons by visible text
     function clickButtonsByText(text) {
@@ -43,3 +43,5 @@ Hit Enter — done! 🙌
 
     console.log('✅ All reviews expanded.');
 })();
+        
+```</code> </pre>
